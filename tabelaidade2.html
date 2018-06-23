@@ -9,8 +9,11 @@ Amostra das idades dos alunos da turma m 2c 2018
 </title>
 </head>
 <body>
-<script>
-var tabela = [
+<script src="parcstatus.js"></script>
+<button>
+falar status do parque recanto do bairro
+</button>
+var tabela= [
 ["m",26,2,"c","carro","30 min",13.3],
 ["m",23,1,"s","ônibus","35 min",11.8],
 ["f",41,5,"v","apé","2h50 min",8.9],
@@ -32,10 +35,37 @@ var tabela = [
 ["f",29,2,"p","a","40 min",5],
 ["m",31,3,"c","o","2h45 min",7.6],
 ];
-document.write(tabela.length)
+//document.write(tabela[2][5])
+var maioridade= 0;
+var menorrenda= 55;
+var sf= 0;
+var cm= 0;
+var cf= 0;
+var mv= 0;
 for(var i= 0; i<tabela.length; i++){
-i= Math.max(tabela);
+sf= sf+tabela[i][2];						
+	if(tabela[i][6]<menorrenda){
+menorrenda= tabela[i][6];
 }
+if(tabela[i][1] > maioridade){
+	maioridade= tabela[i][1];
+}}
+	for(var i1=0; i1<tabela.length; i1++){
+if(tabela[i1][0]=="m"){
+cm= cm+1;
+}
+if(tabela[i1][0]=="f"){
+cf= cf+1;
+}}
+for(var i2=0; i2<tabela.length; i2++){
+mv= mv+tabela[i2][2];
+}
+document.write("a maior idade é ",maioridade);
+document.write("a menor renda familiar é: ",menorrenda);
+	document.write("a soma das frequências é: ",sf);
+document.write("a média das frequências é: ",sf/tabela.length);
+document.write("existem ",cm," homens e ",cf," mulheres.");
+document.write("a média de visitas no parque é: ",mv/tabela.length);
 </script>
 </body>
-</html>
+</html>,
