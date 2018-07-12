@@ -1,0 +1,70 @@
+1993
+"Município","ibge","latitude","longitude","/Energia Elétr...sumidores/Total 1993 (-)"
+"Rio Grande","4315602","-32.034900000000","-52.107100000000","55.286"
+1994
+"Município","ibge","latitude","longitude","/Energia Elétr...sumidores/Total 1994 (-)"
+"Rio Grande","4315602","-32.034900000000","-52.107100000000","56.251"
+1995
+"Município","ibge","latitude","longitude","/Energia Elétr...sumidores/Total 1995 (-)"
+"Rio Grande","4315602","-32.034900000000","-52.107100000000","56.913"
+1996
+"Município","ibge","latitude","longitude","/Energia Elétr...sumidores/Total 1996 (-)"
+"Rio Grande","4315602","-32.034900000000","-52.107100000000","56.345"
+1997
+"Município","ibge","latitude","longitude","/Energia Elétr...sumidores/Total 1997 (-)"
+"Rio Grande","4315602","-32.034900000000","-52.107100000000","58.301"
+1998
+"Município","ibge","latitude","longitude","/Energia Elétr...sumidores/Total 1998 (-)"
+"Rio Grande","4315602","-32.034900000000","-52.107100000000","60.308"
+1999
+"Município","ibge","latitude","longitude","/Energia Elétr...sumidores/Total 1999 (-)"
+"Rio Grande","4315602","-32.034900000000","-52.107100000000","62.039"
+2000
+"Município","ibge","latitude","longitude","/Energia Elétr...sumidores/Total 2000 (-)"
+"Rio Grande","4315602","-32.034900000000","-52.107100000000","63.475"
+2001
+"Município","ibge","latitude","longitude","/Energia Elétr...sumidores/Total 2001 (-)"
+"Rio Grande","4315602","-32.034900000000","-52.107100000000","63.830"
+2002
+"Município","ibge","latitude","longitude","/Energia Elétr...sumidores/Total 2002 (-)"
+"Rio Grande","4315602","-32.034900000000","-52.107100000000","66.010"
+2003
+"Município","ibge","latitude","longitude","/Energia Elétr...sumidores/Total 2003 (-)"
+"Rio Grande","4315602","-32.034900000000","-52.107100000000","68.123"
+2004
+"Município","ibge","latitude","longitude","/Energia Elétr...sumidores/Total 2004 (-)"
+"Rio Grande","4315602","-32.034900000000","-52.107100000000","70.191"
+2005
+"Município","ibge","latitude","longitude","/Energia Elétr...sumidores/Total 2005 (-)"
+"Rio Grande","4315602","-32.034900000000","-52.107100000000","72.074"
+2006
+"Município","ibge","latitude","longitude","/Energia Elétr...sumidores/Total 2006 (-)"
+"Rio Grande","4315602","-32.034900000000","-52.107100000000","73.774"
+2007
+"Município","ibge","latitude","longitude","/Energia Elétr...sumidores/Total 2007 (-)"
+"Rio Grande","4315602","-32.034900000000","-52.107100000000","75.553"
+2008
+"Município","ibge","latitude","longitude","/Energia Elétr...sumidores/Total 2008 (-)"
+"Rio Grande","4315602","-32.034900000000","-52.107100000000","76.876"
+2009
+"Município","ibge","latitude","longitude","/Energia Elétr...sumidores/Total 2009 (-)"
+"Rio Grande","4315602","-32.034900000000","-52.107100000000","78.244"
+2010
+"Município","ibge","latitude","longitude","/Energia Elétr...sumidores/Total 2010 (-)"
+"Rio Grande","4315602","-32.034900000000","-52.107100000000","80.092"
+2011
+"Município","ibge","latitude","longitude","/Energia Elétr...sumidores/Total 2011 (-)"
+"Rio Grande","4315602","-32.034900000000","-52.107100000000","82.623"
+2012
+"Município","ibge","latitude","longitude","/Energia Elétr...sumidores/Total 2012 (-)"
+"Rio Grande","4315602","-32.034900000000","-52.107100000000","85.065"
+2013
+"Município","ibge","latitude","longitude","/Energia Elétr...sumidores/Total 2013 (-)"
+"Rio Grande","4315602","-32.034900000000","-52.107100000000","86.029"
+
+2014
+"Município","ibge","latitude","longitude","/Energia Elétr...sumidores/Total 2014 (-)"
+"Rio Grande","4315602","-32.034900000000","-52.107100000000","86.865"
+2015
+"Município","ibge","latitude","longitude","/Energia Elétr...sumidores/Total 2015 (-)"
+"Rio Grande","4315602","-32.034900000000","-52.107100000000","88.248"
