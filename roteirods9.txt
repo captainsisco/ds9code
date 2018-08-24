@@ -1,0 +1,65 @@
+Jogo baseado em Jornada nas Estrelas Deep Space Nine
+
+Captão Sisko: diário do Captão data estelar 4 1 2 7 2 .4. Estamos abordo da USS defiant voltando para Deep Space Nine depois de uma missão bem sucedida no quadrante gama, acabar com um recente ataque do Dominion.
+Odo: Captão, Estamos recebendo uma chamada de socorro de uma nave desconhecida, coordenadas 5 4 3 4 2 marco 4.
+Captão Sisko: na tela!
+Captão foster: atenção, atenção qualquer nave! Estamos sendo atacados por uma nave Klingon! ajudem!
+Chefe O'Brien: temos duas opções, Captão: ajudá-los ou retornar a Deep Space Nine.
+Sisko escolheu opção a.
+Captão Sisko: odo, mude o curso para as coordenadas deles!
+Odo: sim Captão!
+Eles chegam até as coordenadas.
+Odo: São muitas naves Klingons!
+Captão Sisko: alerta vermelho! levantar escudos!
+Chefe O'Brien: phasers prontos!
+Captão Sisko: muito bem! fogo!
+começa uma sequência interativa de combate.
+O jogador é o Captão Sisko. Ele vai controlar o sistema de armas da Defiant. Setas esquerda e direita move o targeting das armas, espaço dispara phasers, p dispara torpedos fotônicos e q dispara torpedos quânticos.
+O Captão receberá ajuda do resto da tripulação, onde cada um controla um banco de phaser. phasers dispararão altomaticamente para representar a ajuda da tripulação.
+Odo: Captão, use as Setas direita e esquerda para ajustar a mira das armas. Precione espaço para disparar phasers, p para disparar torpedos fotônicos e q para disparar torpedos quânticos.
+quando a primeira nave é destruída:
+Odo: excelente trabalho Captão!
+quando a segunda nave é destruída:
+Odo: wow! esses Klingons vão aprender uma lição!
+quando a terceira nave é destruída:
+Odo: perfeito! um grande trabalho!
+Captão foster: muito obrigado Sisko.
+Captão Sisko: estão feridos?
+Captão foster: não não Captão.
+Captão Sisko: muito bem. de volta para deep space nine.
+Sisko escolheu opção b.
+Captão Sisko: pode ser muito arriscado. vamos voltar para a estação.
+ao chegar em deep space nine
+Odo: Captão, tenho um relatório da frota. o Captão foster e sua nave foram destruídos. A frota exige sua baixa.
+Captão Sisko: oh não. eu devia ter ajudado aquela nave. é dever do Captão atender os pedidos de socorro.
+o Captão é rebaixado pela frota e é forçado a retornar para a Terra. fim.
+continuando a história a partir da opção a.
+quando eles chegam na deep space nine:
+Captão Sisko: todos fizeram um excelente trabalho. O'Brien, repare os danos causados na defiant. Dispensados!
+no bar do Quark...
+Quark: Ron, essa pode ser uma grande oportunidade de negócios, podemos ganhar muito látinun!
+Ron: maninho, primeiro temos que consultar a mug!
+Quark: Ron seu idiota! este é um negócio secreto! a mug não pode saber!
+Ron: mas é ela que nos dá todo o dinheiro!
+Quark: dinheiro esse que você não pode obter você mesmo! Eu consigo obter meu próprio dinheiro, você não!
+Ron: isso é porque ninguém sabe que você planeja trabalhar para a...
+Quark: Ron, cale a boca!
+Ron: está bem maninho. Faça o que quizer!
+No dia seguinte...
+Sisko é despertado por uma mensagem no computador.
+Aviso: transmição anônima recebida.
+Sisko: mas quem será?
+rosloan: olá. você deve ser o Captão Benjamin Sisko, certo?
+Captão Sisko: Sim, sou eu. Quem é você?
+Rosloan: Meu nome é Rosloan. Gostaria de convidá-lo a participar do nosso movimento contra o Dominion. Nós vamos acabar com essa guerra.
+Captão Sisko: Eu não tenho interesse em me juntar a vocês. eu e meu esquadrão da defiant estamos bem preparados.
+Rosloan: Se eu fosse você não recusaria, Captão. Poucas são as pessoas que nós selecionamos para a nossa organização.
+Captão Sisko: De que você está falando? É melhor que me diga mais sobre essa organização.
+Rosloan: nós somos uma organização secreta com o objetivo de defender a federação. ninguém sabe da nossa existência, e nós queremos que continue assim. Nós estamos contra o Dominion. Nossa organização é chamada Seção 31.
+Captão Sisko: e o que nós ganhamos se juntando a Seção 31?
+Rosloan: Seção 31 possue os agentes mais bem treinados que você ja vio. Também possuimos equipamento avançado.
+Captão Sisko: Ok. Já me convenceu. Nós vamos se unir a seção 31.
+Rosloan: Excelente!
+Sisko avisa todos na ds9.
+Captão Sisko: Muito bem. Nos leve até a seção 31.
+Agora o jogador estará na Cede da organização conhecida como seção 31. ele deve andar pelo lugar e falar com Rosloan, que dará missões para o jogador, que envolvem distruir construções importantes do Dominion. As mesmas táticas de combate são aplicáveis.
