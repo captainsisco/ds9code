@@ -1,0 +1,22 @@
+Tim Berners-Lee
+Sir Timothy John Berners-Lee nasceu em Londres, em 8 de junho de 1955.
+Em 1989, na época em que trabalhava no Laboratório Europeu de Física de Partículas (CERN), na Suíça, o físico Tim Berners-Lee propôs um projeto de hipertexto global, 
+que viria a ser conhecido como a World Wide Web. A tecnologia permitia que as pessoas trabalhassem em conjunto, combinando seus conhecimentos em uma rede de documentos 
+de hipertexto. Ele escreveu o código do primeiro servidor WWW e o primeiro editor de hipertexto para a plataforma NeXTStep. Esse trabalho foi disponibilizado dentro
+do CERN, em 1990, e na Internet em geral, em 1991.
+Até 1993, Tim continuou a trabalhar no projeto da Web, coordenando o feedback dos usuários através da Internet. Suas especificações iniciais de HTTP e HTML foram refinadas e discutidas em círculos maiores 
+como a disseminação da tecnologia web.
+Tim Berners-Lee graduou-se pela Universidade de Oxford, Inglaterra, em 1976. Lá, ele construiu seu primeiro computador usando portas TTL, um processador M6800 e 
+uma televisão velha. Depois passou dois anos na Plessey Telecommunications, em Dorset, uma grande fabricante de equipamentos de telecomunicações no Reino Unido, 
+trabalhando com sistemas de transações distribuídas, relés de mensagem e tecnologia de código de barras. Em 1978, Tim deixou Plessey e entrou na DG Nash, no mesmo 
+condado, onde escreveu, entre outras coisas, um software para impressoras inteligentes e um sistema operacional multitarefa.
+Em seguida, passou um ano e meio como consultor independente, incluindo uma temporada de seis meses (junho-dezembro de 1980) como engenheiro de software do CERN. 
+Lá, ele escreveu para uso pessoal o Enquire, seu primeiro software para armazenamento de informações, que incluía o uso de associações aleatórias. Esse programa 
+foi a base conceitual para o desenvolvimento futuro da World Wide Web.
+De 1981 até 1984, Tim trabalhou na Image Computer Systems, na área de design técnico, incluindo firmware de controle em tempo real, gráficos e softwares de comunicações, 
+e uma linguagem macro genérica. Em 1984, ele passou a trabalhar no CERN em sistemas distribuídos de tempo real para aquisição de dados científicos e controle do 
+sistema.
+Em 1994, Tim fundou a World Wide Web Consortium (W3C) no, então, Laboratório de Ciência da Computação (LCS) que se fundiu com o Laboratório de Inteligência Artificial, em 2003, para tornar-se o Laboratório
+de Ciência da Computação e Inteligência Artificial (CSAIL) no Instituto de Tecnologia de Massachusetts (MIT). Desde esse tempo, ele serviu como  diretor do World Wide Web Consortium, uma organização de
+padrões Web que desenvolve tecnologias interoperáveis ??(especificações, diretrizes, software e ferramentas) para levar a Web ao seu potencial pleno. O W3C tem ramificações no MIT, no ERCIM na Europa,
+e na Universidade de Keio, no Japão, bem como escritórios ao redor do mundo.
